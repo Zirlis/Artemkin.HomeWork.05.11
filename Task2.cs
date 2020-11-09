@@ -2,7 +2,7 @@
 {
     class Task2
     {
-        //2. Написать метод подсчета количества цифр числа.
+        //2. Написать метод подсчета количества цифр числа. 
         internal static int QuantityOfNumeral(string num)
         {
             int numeral = 0;
