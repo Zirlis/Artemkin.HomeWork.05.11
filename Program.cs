@@ -8,7 +8,7 @@ namespace Artemkin.HomeWork._05._11
         {
             //Test Task1
             Console.WriteLine($"Введите первое число");
-            double firstDouble = Double.Parse(Console.ReadLine());
+            double firstDouble = Double.Parse(Console.ReadLine()); 
 
             Console.WriteLine($"Введите второе число");
             double secondDouble = Double.Parse(Console.ReadLine());

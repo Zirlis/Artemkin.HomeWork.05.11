@@ -2,7 +2,7 @@
 {
     class Task1
     {
-        //1. Написать метод, возвращающий минимальное из трех чисел.
+        //1. Написать метод, возвращающий минимальное из трех чисел. 
 
         internal static double MinNumber (double first, double second, double third)
         {            
